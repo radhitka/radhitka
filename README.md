@@ -9,14 +9,13 @@ and i'm not stop that, im still learning for new Programming Language like Golan
 
 ### My Stats in Github
 
-![Radhitka's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhitka&show_icons=true&bg_color=00000000)
+[![Radhitka's github stats](https://github-readme-stats.vercel.app/api?username=radhitka&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### My Programming Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radhitka&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radhitka&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 Here are some ideas to get you started:
 
