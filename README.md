@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<!--
-**radhitka/radhitka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Radhitka Adha, just call me Radit
 
+I've been worked as Backend Developer for 3 years, My first Programming Languange is PHP, currently i'm still using it with Laravel framework.
+and i'm not stop that, im still learning for new Programming Language like Golang, React JS, Node JS and Flutter
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
